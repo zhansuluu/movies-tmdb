@@ -1,5 +1,5 @@
 # cinema-tmdb
-Deployment link: https://cinema-tmdb.onrender.com;
+Deployment link: https://cinema-tmdb.onrender.com (without back)
 ## Build Setup
 
 ```bash
